@@ -1,2 +1,2 @@
 # natural-numbers-game-lean4
-Natural Numbers Game in Lean 4
+This is an attempt to replicate the [Natural Numbers Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/) in[ Lean 4](https://github.com/leanprover/lean4).
